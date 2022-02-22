@@ -25,3 +25,4 @@
 @@||images-na.ssl-images-amazon.com^
 @@||alexa-comms-mobile-service.amazon.com^
 @@||s.amazon-adsystem.com^
+@@||occ.com.mx^
