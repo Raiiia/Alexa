@@ -1,12 +1,10 @@
 ! Title: MMotti AdguardHome - whitelist.txt
-@@||youtube.com^
 @@||amazonalexa.com^
 @@||ubuntu.com^
 @@||windows.com^
 @@||microsoft.com^
 @@||amazon.com.mx^
 @@||amazon.com^
-@@||googleapis.com^
 @@||yt3.ggpht.com^
 @@||in.appcenter.ms^
 @@||firetvcaptiveportal.com^
@@ -14,9 +12,6 @@
 @@||sponsor.ajay.app^
 @@||i.ytimg.com^
 @@||github.com^
-@@||amazonvideo.com^
-@@||hbo.com^
-@@||googlevideo.com^
 @@||mx.telefonica.rcs.telephony.goog^
 @@||google.com^
 @@||msn.com^
