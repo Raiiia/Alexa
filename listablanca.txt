@@ -25,3 +25,4 @@
 @@||indeed.com^
 @@||alamorockradio.atwebpages.com/^
 @@||ecx.images-amazon.com^
+@@||mobileanalytics.us-east-1.amazonaws.com^
