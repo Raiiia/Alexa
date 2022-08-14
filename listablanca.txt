@@ -7,14 +7,10 @@
 @@||amazon.com^
 @@||yt3.ggpht.com^
 @@||in.appcenter.ms^
-@@||firetvcaptiveportal.com^
-@@||fireoscaptiveportal.com^
 @@||sponsor.ajay.app^
 @@||i.ytimg.com^
 @@||github.com^
 @@||mx.telefonica.rcs.telephony.goog^
-@@||google.com^
-@@||msn.com^
 @@||img-s-msn-com.akamaized.net^
 @@||kinesis.us-east-1.amazonaws.com^
 @@||images-na.ssl-images-amazon.com^
@@ -23,6 +19,6 @@
 @@||occ.com.mx^
 @@||t.indeed.com^
 @@||indeed.com^
-@@||alamorockradio.atwebpages.com/^
+@@||atwebpages.com/^
 @@||ecx.images-amazon.com^
 @@||mobileanalytics.us-east-1.amazonaws.com^
