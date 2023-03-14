@@ -23,7 +23,7 @@
 @@||ecx.images-amazon.com^
 @@||mobileanalytics.us-east-1.amazonaws.com^
 @@||autoservicio.utc.mx^
-@@||doctoralia.com.mx
+@@||doctoralia.com.mx^
 @@||
 @@||
 @@||
