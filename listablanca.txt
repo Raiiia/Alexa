@@ -24,5 +24,5 @@
 @@||mobileanalytics.us-east-1.amazonaws.com^
 @@||autoservicio.utc.mx^
 @@||doctoralia.com.mx^
-@@||
-@@||
+@@||languageline.vii-verint.com^
+@@||app.smartsheet.com^
