@@ -24,6 +24,5 @@
 @@||mobileanalytics.us-east-1.amazonaws.com^
 @@||autoservicio.utc.mx^
 @@||doctoralia.com.mx^
-@@||sendgrid.net^
 @@||
 @@||
