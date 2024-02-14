@@ -10,7 +10,6 @@
 @@||sponsor.ajay.app^
 @@||i.ytimg.com^
 @@||github.com^
-@@||mx.telefonica.rcs.telephony.goog^
 @@||img-s-msn-com.akamaized.net^
 @@||kinesis.us-east-1.amazonaws.com^
 @@||images-na.ssl-images-amazon.com^
@@ -27,5 +26,5 @@
 @@||languageline.vii-verint.com^
 @@||app.smartsheet.com^
 @@||gmail.com^
-@@||https://cedulaprofesional.sep.gob.mx/cedula/^
-@@||https://play.hbomax.com/^
+@@||cedulaprofesional.sep.gob.mx^
+@@||play.hbomax.com/^
