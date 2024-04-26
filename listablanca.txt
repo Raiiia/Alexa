@@ -21,10 +21,8 @@
 @@||atwebpages.com/^
 @@||ecx.images-amazon.com^
 @@||mobileanalytics.us-east-1.amazonaws.com^
-@@||autoservicio.utc.mx^
 @@||doctoralia.com.mx^
 @@||languageline.vii-verint.com^
 @@||app.smartsheet.com^
 @@||gmail.com^
 @@||cedulaprofesional.sep.gob.mx^
-@@||play.hbomax.com/^
