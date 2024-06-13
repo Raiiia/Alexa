@@ -26,3 +26,17 @@
 @@||app.smartsheet.com^
 @@||gmail.com^
 @@||cedulaprofesional.sep.gob.mx^
+@@||scribe.logs.roku.com^
+@@||logs.netflix.com^
+@@||cloudservices.roku.com^
+@@||liberty.logs.roku.com^
+@@||7ba3f64df98de730df38846b54ecfbdf7f61f80f.cws.conviva.com^
+@@||d3p8zr0ffa9t17.cloudfront.net^
+@@||mobile.logs.roku.com^
+@@||disney.my.sentry.io^
+@@||display.ravm.tv^
+@@||p.ads.roku.com^
+@@||dpm.demdex.net^
+@@||cdn.optimizely.com^
+@@||crashlyticsreports-pa.googleapis.com^
+@@||s.youtube.com^
