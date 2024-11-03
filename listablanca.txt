@@ -36,4 +36,3 @@
 @@||cdn.optimizely.com^
 @@||crashlyticsreports-pa.googleapis.com^
 @@||s.youtube.com^
-@@||s.click.aliexpress.com^
