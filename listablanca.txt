@@ -22,9 +22,6 @@
 @@||ecx.images-amazon.com^
 @@||mobileanalytics.us-east-1.amazonaws.com^
 @@||doctoralia.com.mx^
-@@||languageline.vii-verint.com^
-@@||app.smartsheet.com^
-@@||gmail.com^
 @@||cedulaprofesional.sep.gob.mx^
 @@||scribe.logs.roku.com^
 @@||logs.netflix.com^
