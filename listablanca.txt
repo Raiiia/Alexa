@@ -26,3 +26,4 @@
 @@||disney.my.sentry.io^
 @@||dpm.demdex.net^
 @@||cdn.optimizely.com^
+@@||badoo.com^
