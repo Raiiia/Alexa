@@ -27,3 +27,4 @@
 @@||dpm.demdex.net^
 @@||cdn.optimizely.com^
 @@||badoo.com^
+@@||crunchyroll.com^
