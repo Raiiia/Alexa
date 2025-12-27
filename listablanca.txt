@@ -1,30 +1,103 @@
-! Title: MMotti AdguardHome - whitelist.txt
+# ===============================
+# WHITELIST GLOBAL – ADGUARD HOME
+# ===============================
+# Autor: César
+# Objetivo: Máxima privacidad sin romper servicios
+# ===============================
+
+## AMAZON / ALEXA
 @@||amazonalexa.com^
-@@||ubuntu.com^
-@@||windows.com^
-@@||microsoft.com^
-@@||amazon.com.mx^
-@@||amazon.com^
-@@||yt3.ggpht.com^
-@@||in.appcenter.ms^
-@@||i.ytimg.com^
-@@||github.com^
-@@||img-s-msn-com.akamaized.net^
-@@||kinesis.us-east-1.amazonaws.com^
-@@||images-na.ssl-images-amazon.com^
 @@||alexa-comms-mobile-service.amazon.com^
-@@||s.amazon-adsystem.com^
-@@||occ.com.mx^
-@@||t.indeed.com^
-@@||indeed.com^
-@@||atwebpages.com/^
+@@||avs-alexa.*.amazonaws.com^
+@@||kinesis.us-east-1.amazonaws.com^
+@@||device-metrics-us.amazon.com^
+@@||s3.amazonaws.com^
+@@||images-na.ssl-images-amazon.com^
 @@||ecx.images-amazon.com^
-@@||doctoralia.com.mx^
-@@||cedulaprofesional.sep.gob.mx^
+@@||amazon.com^
+@@||amazon.com.mx^
+
+## IOT – TASMOTA
+@@||*.tasmota.com^
+@@||mqtt.^
+@@||mqtt.local^
+
+## IOT – TUYA
+@@||*.tuya.com^
+@@||*.tuyaeu.com^
+@@||*.tuyaus.com^
+@@||*.tuya-cn.com^
+@@||*.tuyaapis.com^
+
+## IOT – EWELINK / SONOFF
+@@||*.ewelink.cc^
+@@||*.coolkit.cc^
+
+## IOT – TP-LINK TAPO
+@@||*.tplinkcloud.com^
+@@||*.tapo.com^
+@@||*.tp-link.com^
+
+## ANDROID – SERVICIOS ESENCIALES
+@@||android.clients.google.com^
+@@||play.googleapis.com^
+@@||firebaseinstallations.googleapis.com^
+@@||mtalk.google.com^
+
+## GOOGLE – YOUTUBE FUNCIONAL
+@@||youtube.com^
+@@||googlevideo.com^
+@@||i.ytimg.com^
+@@||yt3.ggpht.com^
+
+## MICROSOFT – WINDOWS
+@@||windowsupdate.com^
+@@||update.microsoft.com^
+@@||download.windowsupdate.com^
+@@||storeedgefd.dsx.mp.microsoft.com^
+@@||login.live.com^
+@@||microsoft.com^
+@@||windows.com^
+
+## STREAMING – NETFLIX / DISNEY
+@@||netflix.com^
+@@||nflxvideo.net^
 @@||logs.netflix.com^
-@@||d3p8zr0ffa9t17.cloudfront.net^
+@@||disneyplus.com^
 @@||disney.my.sentry.io^
-@@||dpm.demdex.net^
-@@||cdn.optimizely.com^
-@@||badoo.com^
+@@||d3p8zr0ffa9t17.cloudfront.net^
+
+## STREAMING – CRUNCHYROLL
 @@||crunchyroll.com^
+@@||vrv.co^
+
+## ROKU – FUNCIONALIDAD BÁSICA
+@@||captive.roku.com^
+@@||api.roku.com^
+
+## AMAZON FIRE TV
+@@||fls-na.amazon.com^
+@@||api.amazonvideo.com^
+@@||atv-ext.amazon.com^
+
+## CLOUDFLARE / DOMINIO PROPIO
+@@||cloudflare.com^
+@@||*.cloudflare.com^
+@@||rajapakse.uk^
+@@||*.rajapakse.uk^
+
+## GITHUB / DESARROLLO
+@@||github.com^
+@@||raw.githubusercontent.com^
+@@||api.github.com^
+
+## EDUCACIÓN / TRÁMITES MX
+@@||cedulaprofesional.sep.gob.mx^
+@@||occ.com.mx^
+@@||indeed.com^
+@@||t.indeed.com^
+@@||doctoralia.com.mx^
+
+# ===============================
+# FIN
+# ===============================
